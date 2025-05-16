@@ -1,5 +1,5 @@
 # [level 2] 지게차와 크레인 - 388353 
-
+ 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/388353) 
 
 ### 성능 요약
