@@ -1,5 +1,5 @@
 # [level 2] 완전범죄 - 389480 
-
+ 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/389480) 
 
 ### 성능 요약
