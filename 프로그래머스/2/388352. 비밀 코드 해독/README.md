@@ -1,7 +1,7 @@
 # [level 2] 비밀 코드 해독 - 388352 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/388352) 
-
+ 
 ### 성능 요약
 
 메모리: 120 MB, 시간: 401.54 ms
