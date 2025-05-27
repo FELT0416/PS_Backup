@@ -1,5 +1,5 @@
 # [level 2] 도넛과 막대 그래프 - 258711 
-
+ 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/258711) 
 
 ### 성능 요약
