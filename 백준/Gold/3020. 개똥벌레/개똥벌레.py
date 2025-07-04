@@ -1,3 +1,5 @@
+import sys
+input = sys.stdin.readline
 n,h = map(int,input().split())
 
 li = [int(input()) for _ in range(n)]
